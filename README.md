@@ -1,7 +1,7 @@
 # 🚖 Cholo — Real-Time Ride Sharing Website
 
 # 📋 Project Overview
-Cholo is a real-time ride sharing platform designed to connect riders and drivers efficiently. The project aims to solve common transportation challenges such as finding available rides quickly, tracking drivers in real-time, and managing trips seamlessly.
+Cholo is a real_time ride sharing platform designed to connect riders and drivers efficiently. The project aims to solve common transportation challenges such as finding available rides quickly, tracking drivers in real-time, and managing trips seamlessly.
 By leveraging modern web technologies like React.js, Node.js, and Socket.io (or Firebase), Cholo provides:
 * Riders with the ability to request rides, view driver locations in real-time, and track their trips from start to finish.
 * Drivers with a dashboard to accept ride requests, manage trips, and monitor trip progress efficiently.
