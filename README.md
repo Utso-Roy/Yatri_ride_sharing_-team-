@@ -47,7 +47,7 @@ By leveraging modern web technologies like React.js, Node.js, and Socket.io (or 
 ### Frontend
 - **Typescript**, **Tailwind CSS**, **React Router**  
 - **Maps & Location:** Google Maps API / Mapbox  
-- **Realtime Updates:** Socket.io / Firebase  
+- **Realtime Updates:** Socket.io   
 
 ### Backend
 - **Node.js**, **Express.js**  
